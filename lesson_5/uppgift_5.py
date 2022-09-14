@@ -51,5 +51,5 @@ if new_salary_increase <= 20:
     print(f"Well that's a big {decision_x}")
 
 else:
-    print(f"Well I have to give you a {decision_y}")
+    print(f"Well I have to give you a {decision_y}")  
     
